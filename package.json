@@ -1,0 +1,27 @@
+{
+  "name": "social-neo",
+  "version": "1.0.0",
+  "description": "express api using neo4j for graph conections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doron2402/neo4j-express-docker.git"
+  },
+  "keywords": [
+    "express",
+    "API",
+    "neo4j"
+  ],
+  "author": "Doron Segal <doron2402@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doron2402/neo4j-express-docker/issues"
+  },
+  "homepage": "https://github.com/doron2402/neo4j-express-docker",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
